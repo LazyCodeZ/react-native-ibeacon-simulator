@@ -26,7 +26,7 @@ android {
 }
 
 dependencies {
-    implement fileTree(dir: 'libs', include: ['*.jar'])
-    implement 'com.facebook.react:react-native:+'
-    implement 'org.altbeacon:android-beacon-library:2+'
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.facebook.react:react-native:+'
+    implementation 'org.altbeacon:android-beacon-library:2+'
 }
