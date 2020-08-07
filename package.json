@@ -1,12 +1,12 @@
 {
-  "name": "react-native-ibeacon-simulator",
-  "version": "1.0.10",
-  "description": "A cool package for simulate your iOS devices as beacon",
+  "name": "react-native-beacon-broadcast",
+  "version": "1.0.0",
+  "description": "A cool package for simulate your devices as beacon",
   "author": "Flow",
   "nativePackage": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/williamtran29/react-native-ibeacon-simulator.git"
+    "url": "git+https://github.com/LazyCodeZ/react-native-ibeacon-simulator"
   },
   "keywords": [
     "react-native",

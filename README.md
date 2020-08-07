@@ -2,7 +2,7 @@ React Native Module that broadcasts an iBeacon uuid.
 
 # Setup
 
-`npm i --save react-native-ibeacon-simulator`
+`npm i --save react-native-beacon-broadcast`
 
 `react-native link`
 
